@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\ihc_project_1_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB61FD-B1E0-868B-3011-03399695C1B1}|Assembly-CSharp.csproj|d:\\code\\ihc_project_1_2\\assets\\scripts\\captureinstantiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABB61FD-B1E0-868B-3011-03399695C1B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\captureinstantiation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB61FD-B1E0-868B-3011-03399695C1B1}|Assembly-CSharp.csproj|D:\\code\\ihc_project_1_2\\assets\\scripts\\handleobjectselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABB61FD-B1E0-868B-3011-03399695C1B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handleobjectselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaptureInstantiation.cs",
+              "DocumentMoniker": "D:\\code\\ihc_project_1_2\\Assets\\Scripts\\CaptureInstantiation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CaptureInstantiation.cs",
+              "ToolTip": "D:\\code\\ihc_project_1_2\\Assets\\Scripts\\CaptureInstantiation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CaptureInstantiation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:30:05.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "handleObjectSelection.cs",
+              "DocumentMoniker": "D:\\code\\ihc_project_1_2\\Assets\\Scripts\\handleObjectSelection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\handleObjectSelection.cs",
+              "ToolTip": "D:\\code\\ihc_project_1_2\\Assets\\Scripts\\handleObjectSelection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\handleObjectSelection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:29:32.786Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
